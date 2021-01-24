@@ -36,6 +36,8 @@
 2. Install dependencies using `yarn install` or `npm install`
 3. Start development server using `yarn dev` or `npm run dev`
 
+run yarn in /docs
+
 ## License
 
 [MIT License](./LICENSE)
